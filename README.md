@@ -75,8 +75,8 @@ The final model is deployed through a *Streamlit* app, allowing users to input t
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/<your-username>/peram-mahesh.git
-   cd peram-mahesh
+   git clone https://github.com/<your-username>/kamalranjith0619.git
+   cd kamalranjith0619
    
 2.**Install required packages**
 
